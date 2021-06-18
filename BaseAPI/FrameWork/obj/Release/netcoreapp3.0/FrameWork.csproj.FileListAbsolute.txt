@@ -1,0 +1,16 @@
+G:\testAPI\TestAPI\FrameWork\bin\Release\netcoreapp3.0\FrameWork.deps.json
+G:\testAPI\TestAPI\FrameWork\bin\Release\netcoreapp3.0\FrameWork.dll
+G:\testAPI\TestAPI\FrameWork\bin\Release\netcoreapp3.0\FrameWork.pdb
+G:\testAPI\TestAPI\FrameWork\obj\Release\netcoreapp3.0\FrameWork.csprojAssemblyReference.cache
+G:\testAPI\TestAPI\FrameWork\obj\Release\netcoreapp3.0\FrameWork.AssemblyInfoInputs.cache
+G:\testAPI\TestAPI\FrameWork\obj\Release\netcoreapp3.0\FrameWork.AssemblyInfo.cs
+G:\testAPI\TestAPI\FrameWork\obj\Release\netcoreapp3.0\FrameWork.dll
+G:\testAPI\TestAPI\FrameWork\obj\Release\netcoreapp3.0\FrameWork.pdb
+C:\Projects\testAPI\TestAPI\FrameWork\bin\Release\netcoreapp3.0\FrameWork.deps.json
+C:\Projects\testAPI\TestAPI\FrameWork\bin\Release\netcoreapp3.0\FrameWork.dll
+C:\Projects\testAPI\TestAPI\FrameWork\bin\Release\netcoreapp3.0\FrameWork.pdb
+C:\Projects\testAPI\TestAPI\FrameWork\obj\Release\netcoreapp3.0\FrameWork.csprojAssemblyReference.cache
+C:\Projects\testAPI\TestAPI\FrameWork\obj\Release\netcoreapp3.0\FrameWork.AssemblyInfoInputs.cache
+C:\Projects\testAPI\TestAPI\FrameWork\obj\Release\netcoreapp3.0\FrameWork.AssemblyInfo.cs
+C:\Projects\testAPI\TestAPI\FrameWork\obj\Release\netcoreapp3.0\FrameWork.dll
+C:\Projects\testAPI\TestAPI\FrameWork\obj\Release\netcoreapp3.0\FrameWork.pdb
