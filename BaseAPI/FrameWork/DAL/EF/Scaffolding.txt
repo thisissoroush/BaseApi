@@ -1,0 +1,10 @@
+﻿1. Set Framework as startup
+2. exclude repositories
+3. Scaffold-DbContext "Server=.;Database=BaseDB;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir DAL/EF/Models
+4. copy below code
+        private readonly IDbConnector _conStr;
+        public BaseDBContext(IDbConnector conStr)
+        {
+            _conStr = conStr;
+        }
+5. change MainDBContext optionbuilder

@@ -14,7 +14,6 @@ namespace BaseAPI.Controllers.v1
     public class GoogleController : BaseController
     {
         private readonly IGoogleService _GoogleService;
-        private string _user;
         public GoogleController(IGoogleService googleService, IIdentityService IdentityService, IHttpContextAccessor accessor) : base(accessor, IdentityService)
         {
             _GoogleService = googleService;

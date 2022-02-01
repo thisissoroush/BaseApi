@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\BaseAPI\\BaseAPI\\BaseAPI\\BaseAPI.csproj": {}
+    "D:\\Projects\\BaseAPI\\BaseAPI\\BaseAPI\\BaseAPI.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\BaseAPI\\BaseAPI\\BaseAPI\\BaseAPI.csproj": {
+    "D:\\Projects\\BaseAPI\\BaseAPI\\BaseAPI\\BaseAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\BaseAPI\\BaseAPI\\BaseAPI\\BaseAPI.csproj",
+        "projectUniqueName": "D:\\Projects\\BaseAPI\\BaseAPI\\BaseAPI\\BaseAPI.csproj",
         "projectName": "BaseAPI",
-        "projectPath": "C:\\Projects\\BaseAPI\\BaseAPI\\BaseAPI\\BaseAPI.csproj",
-        "packagesPath": "C:\\Users\\Soroush\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\BaseAPI\\BaseAPI\\BaseAPI\\obj\\",
+        "projectPath": "D:\\Projects\\BaseAPI\\BaseAPI\\BaseAPI\\BaseAPI.csproj",
+        "packagesPath": "C:\\Users\\s.nasiri\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\BaseAPI\\BaseAPI\\BaseAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Soroush\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\s.nasiri\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -31,8 +31,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Projects\\BaseAPI\\BaseAPI\\FrameWork\\FrameWork.csproj": {
-                "projectPath": "C:\\Projects\\BaseAPI\\BaseAPI\\FrameWork\\FrameWork.csproj"
+              "D:\\Projects\\BaseAPI\\BaseAPI\\FrameWork\\FrameWork.csproj": {
+                "projectPath": "D:\\Projects\\BaseAPI\\BaseAPI\\FrameWork\\FrameWork.csproj"
               }
             }
           }
@@ -90,24 +90,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Projects\\BaseAPI\\BaseAPI\\FrameWork\\FrameWork.csproj": {
+    "D:\\Projects\\BaseAPI\\BaseAPI\\FrameWork\\FrameWork.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\BaseAPI\\BaseAPI\\FrameWork\\FrameWork.csproj",
+        "projectUniqueName": "D:\\Projects\\BaseAPI\\BaseAPI\\FrameWork\\FrameWork.csproj",
         "projectName": "FrameWork",
-        "projectPath": "C:\\Projects\\BaseAPI\\BaseAPI\\FrameWork\\FrameWork.csproj",
-        "packagesPath": "C:\\Users\\Soroush\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\BaseAPI\\BaseAPI\\FrameWork\\obj\\",
+        "projectPath": "D:\\Projects\\BaseAPI\\BaseAPI\\FrameWork\\FrameWork.csproj",
+        "packagesPath": "C:\\Users\\s.nasiri\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\BaseAPI\\BaseAPI\\FrameWork\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Soroush\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\s.nasiri\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -135,27 +135,47 @@
           "dependencies": {
             "Dapper": {
               "target": "Package",
-              "version": "[2.0.30, )"
+              "version": "[2.0.90, )"
             },
             "HtmlSanitizer": {
               "target": "Package",
-              "version": "[5.0.298, )"
+              "version": "[5.0.404, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.7, )"
             },
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
-              "version": "[3.1.2, )"
+              "version": "[5.0.0, )"
             },
             "RestSharp": {
               "target": "Package",
-              "version": "[106.10.1, )"
+              "version": "[106.11.7, )"
             },
             "System.Data.SqlClient": {
               "target": "Package",
-              "version": "[4.8.1, )"
+              "version": "[4.8.2, )"
             },
             "System.Drawing.Common": {
               "target": "Package",
-              "version": "[4.7.0, )"
+              "version": "[5.0.2, )"
             }
           },
           "imports": [
@@ -173,7 +193,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

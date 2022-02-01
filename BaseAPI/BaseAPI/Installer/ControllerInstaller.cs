@@ -8,6 +8,7 @@ namespace FrameWork.Installer
         public void InstallerService(IServiceCollection services, IConfiguration configuration)
         {
             services.AddControllers();
+
         }
     }
 }

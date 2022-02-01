@@ -2,6 +2,9 @@
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using FrameWork.DAL.DapperSQl;
+using FrameWork.DAL.EF.Repositories;
+using FrameWork.DAL.EF.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace FrameWork.Installer
 {
@@ -11,6 +14,8 @@ namespace FrameWork.Installer
         {
             services.AddSingleton<IDbConnector, DbConnector>();
             services.AddSingleton(typeof(IDapper<>), typeof(Dapper<>));
+            services.AddDbContext<BaseDBContext>();
+            services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
         }
     }
 }

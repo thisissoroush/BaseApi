@@ -1,4 +1,6 @@
 C:\Projects\BaseAPI\BaseAPI\FrameWork\bin\Debug\netcoreapp5.0\FrameWork.deps.json
+C:\Projects\BaseAPI\BaseAPI\FrameWork\bin\Debug\netcoreapp5.0\FrameWork.runtimeconfig.json
+C:\Projects\BaseAPI\BaseAPI\FrameWork\bin\Debug\netcoreapp5.0\FrameWork.runtimeconfig.dev.json
 C:\Projects\BaseAPI\BaseAPI\FrameWork\bin\Debug\netcoreapp5.0\FrameWork.dll
 C:\Projects\BaseAPI\BaseAPI\FrameWork\bin\Debug\netcoreapp5.0\ref\FrameWork.dll
 C:\Projects\BaseAPI\BaseAPI\FrameWork\bin\Debug\netcoreapp5.0\FrameWork.pdb
@@ -10,3 +12,4 @@ C:\Projects\BaseAPI\BaseAPI\FrameWork\obj\Debug\netcoreapp5.0\FrameWork.csproj.C
 C:\Projects\BaseAPI\BaseAPI\FrameWork\obj\Debug\netcoreapp5.0\FrameWork.dll
 C:\Projects\BaseAPI\BaseAPI\FrameWork\obj\Debug\netcoreapp5.0\ref\FrameWork.dll
 C:\Projects\BaseAPI\BaseAPI\FrameWork\obj\Debug\netcoreapp5.0\FrameWork.pdb
+C:\Projects\BaseAPI\BaseAPI\FrameWork\obj\Debug\netcoreapp5.0\FrameWork.genruntimeconfig.cache
